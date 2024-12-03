@@ -3,9 +3,14 @@ To install dependencies:
 bun install
 ```
 
-To run:
+To run development server only:
 ```sh
 bun run dev
+```
+
+To run full server:
+```sh
+bun run start
 ```
 
 open http://localhost:3000
